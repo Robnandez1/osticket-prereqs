@@ -2,7 +2,6 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
 This section outlines the prerequisites and installation of the open-source Help-Desk ticketing system osTicket.<br />
 
 

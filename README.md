@@ -25,8 +25,8 @@ This section outlines the prerequisites and installation of the open-source Help
 
 - Enable Internet Information Services (IIS)
 - Web Platform Installer
-- Install mySequal
-- Install C++ Redistribute Wall
+- MySQL Installation
+- C++ Redistributable Installation
 - Permissions Configurement
 
 <h2>Installation Steps</h2>

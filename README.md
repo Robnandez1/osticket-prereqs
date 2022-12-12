@@ -2,12 +2,13 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-This section outlines the prerequisites and installation of the open-source Help-Desk ticketing system osTicket.<br />
+<h1>osTicket - Prerequisites and Installation</h1>
+This section outlines the prerequisites and installation of the open-source Help Desk Ticketing System osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -18,6 +19,7 @@ This section outlines the prerequisites and installation of the open-source Help
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Mac OSX High Sierra
 
 <h2>List of Prerequisites</h2>
 
